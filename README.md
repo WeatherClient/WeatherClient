@@ -4,10 +4,10 @@
 -----------
 Exclusive Features
 --------------
-Fly | Bypassing
-B-Hop | Bypassing
-SigmaFly | Bypassing
-NoFall | Bypassing
-ViewModel | Exclusive for Weather users.
-TargetStrafe | Featured in other clients
-Killaura | Customizable | Bypassing
+<br> Fly | Bypassing
+<br> B-Hop | Bypassing
+<br> SigmaFly | Bypassing
+<br> NoFall | Bypassing
+<br> ViewModel | Exclusive for Weather users.
+<br> TargetStrafe | Featured in other clients
+<br> Killaura | Customizable | Bypassing
