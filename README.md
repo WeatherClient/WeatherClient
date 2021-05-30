@@ -2,7 +2,7 @@
 <br> Developers:
 <br> R9J9/2427 - Owner / Client Dev
 <br> Turakan - Founder / Client Dev <inactive, will dev if wanted to>
-<br> rxversed - Application Team | Website Developer | Access to SRC
+<br> rxversed - Client Dev
 <br> yeeter | Application Team | Website Developer
 -----------
 Exclusive Features
