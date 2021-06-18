@@ -15,3 +15,4 @@ Exclusive Features
 <br> Killaura | Customizable | Bypassing
 # Terminated
 The server was recently terminated. Please wait as I think about life...
+Note: Its back! https://discord.gg/FAT494bhY2
