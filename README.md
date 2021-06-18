@@ -9,7 +9,6 @@ Exclusive Features
 --------------
 <br> Fly | Bypassing
 <br> B-Hop | Bypassing
-<br> SigmaFly | Bypassing
 <br> ViewModel | Featured in other clients aka Fadeaway or BadMan
 <br> TargetStrafe | Featured in other clients
 <br> Killaura | Customizable | Bypassing
