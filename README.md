@@ -12,6 +12,5 @@ Exclusive Features
 <br> ViewModel | Featured in other clients aka Fadeaway or BadMan
 <br> TargetStrafe | Featured in other clients
 <br> Killaura | Customizable | Bypassing
-# Terminated
-The server was recently terminated. Please wait as I think about life...
-Note: Its back! https://discord.gg/FAT494bhY2
+# Discord
+https://discord.gg/AghRM8hAw9
