@@ -13,4 +13,4 @@ Exclusive Features
 <br> TargetStrafe | Featured in other clients
 <br> Killaura | Customizable | Bypassing
 # Discord
-https://discord.gg/AghRM8hAw9
+https://discord.weathermc.xyz
