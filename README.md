@@ -1,9 +1,8 @@
 # WeatherClient
 <br> Developers:
-<br> R9J9/2427 - Owner / Client Dev
-<br> Turakan - Founder / Client Dev <inactive, will dev if wanted to>
-<br> rxversed - Client Dev
-<br> yeeter | Application Team | Website Developer
+<br> 2474 - Owner / Client Dev
+<br> rxversed - Client Dev 
+<br> flxme - Website Developer
 -----------
 Exclusive Features
 --------------
